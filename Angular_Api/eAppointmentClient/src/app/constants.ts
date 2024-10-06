@@ -1,0 +1,71 @@
+import { DepartmentModel } from "./models/doctor.model"
+
+export const api: string = "https://localhost:7295/api"
+
+export const departments: DepartmentModel[] = [
+    {
+    value:1,
+    name:"Acil"
+    },
+    {
+    value:2,
+    name:"X_Rays"
+    },
+    {
+    value:3,
+    name:"HeartDisease"
+    },
+    {
+    value:4,
+    name:"Dermatology"
+    },
+    {
+    value:5,
+    name:"Endocrinology"
+    },
+    {
+    value:6,
+    name:"Gastroenterology"
+    },
+    {
+    value:7,
+    name:"AcGeneralSurgeryil"
+    },
+    {
+    value:8,
+    name:"GynecologyAndObstetrics"
+    },
+    {
+    value:9,
+    name:"Hematology"
+    },
+    {
+    value:10,
+    name:"InfectiousDiseases"
+    },
+    {
+    value:11,
+    name:"Nephrology"
+    },
+    {
+    value:12,
+    name:"Neurology"
+    },
+    {
+    value:13,
+    name:"Orthopedics"
+    },
+    {
+    value:14,
+    name:"Pediatricians"
+    },
+    {
+    value:15,
+    name:"Psychiatry"
+    },
+    {
+    value:16,
+    name:"Pulmonology"
+    },
+
+];

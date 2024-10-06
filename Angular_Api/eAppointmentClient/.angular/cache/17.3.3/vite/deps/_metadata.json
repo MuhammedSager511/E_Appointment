@@ -1,0 +1,88 @@
+{
+  "hash": "47553bc8",
+  "configHash": "dfc15531",
+  "lockfileHash": "a6da9ba9",
+  "browserHash": "4215a705",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "ad2d3ccf",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "d335979d",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "4d9e40c6",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "d42f38aa",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "b39abcb4",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "c7cf1e7d",
+      "needsInterop": false
+    },
+    "devextreme-angular": {
+      "src": "../../../../../node_modules/devextreme-angular/fesm2015/devextreme-angular.js",
+      "file": "devextreme-angular.js",
+      "fileHash": "d0c44fc4",
+      "needsInterop": false
+    },
+    "form-validate-angular": {
+      "src": "../../../../../node_modules/form-validate-angular/fesm2022/form-validate-angular.mjs",
+      "file": "form-validate-angular.js",
+      "fileHash": "d3ba5569",
+      "needsInterop": false
+    },
+    "jwt-decode": {
+      "src": "../../../../../node_modules/jwt-decode/build/esm/index.js",
+      "file": "jwt-decode.js",
+      "fileHash": "4fd52656",
+      "needsInterop": false
+    },
+    "sweetalert2": {
+      "src": "../../../../../node_modules/sweetalert2/dist/sweetalert2.all.js",
+      "file": "sweetalert2.js",
+      "fileHash": "4f3664e3",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-2SV2D4SE": {
+      "file": "chunk-2SV2D4SE.js"
+    },
+    "chunk-SNTG6MHN": {
+      "file": "chunk-SNTG6MHN.js"
+    },
+    "chunk-ITL7RSVJ": {
+      "file": "chunk-ITL7RSVJ.js"
+    },
+    "chunk-6VTY4GQT": {
+      "file": "chunk-6VTY4GQT.js"
+    },
+    "chunk-EYWVSNCA": {
+      "file": "chunk-EYWVSNCA.js"
+    },
+    "chunk-EHLZM3EC": {
+      "file": "chunk-EHLZM3EC.js"
+    }
+  }
+}
